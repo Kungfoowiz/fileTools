@@ -13,7 +13,7 @@
 # To confirm folder creation and moving the files: ./expand.ps1 -confirm $true 
 
 # Usage
-# 1. Place script into a folder
+# 1. Place script and .\dataset folder into a folder
 # 2. Place all files you want iterated into .\target folder
 # 3. In Powershell cd to the folder
 # 4. Type   ./expand.ps1 -confirm $true    Press <ENTER>
